@@ -1,0 +1,22 @@
+{
+  "data_not_found": "Dados solicitados não encontrados.",
+  "no_coincidences_found": "Nenhuma correspondência encontrada.",
+  "inexistent_destination": "Nenhum destino encontrado.",
+  "inexistent_street": "Rua não encontrada.",
+  "inexistent_city": "Cidade não encontrada.",
+  "inexistent": "Destino inexistente.",
+  "no_cities_for_cp": "Nenhuma cidade encontrada para o código postal.",
+  "catalog_doesnt_allow_creation": "O catálogo não permite a criação do destino.",
+  "catalog_doesnt_allow_delete": "O catálogo não permite a exclusão do destino.",
+  "catalog_doesnt_allow_edition": "O catálogo não permite a edição do destino.",
+  "catalog_doesnt_allow_favourite": "O catálogo não permite selecionar o destino como favorito.",
+  "country_doesnt_allow_creation": "O país não está configurado para a criação de destinos.",
+  "error_creating": "Erro na criação do endereço.",
+  "error_deleting": "Erro na exclusão do endereço.",
+  "error_updating": "Erro na atualização do endereço.",
+  "cannot_delete": "O endereço não pode ser excluído, pois possui pedidos associados.",
+  "created": "Destino criado.",
+  "deleted": "Destino excluído.",
+  "updated": "Destino atualizado.",
+  "selected_as_favorite": "Destino selecionado como favorito."
+}

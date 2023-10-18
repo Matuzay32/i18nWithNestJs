@@ -1,0 +1,32 @@
+{
+  "created": "Catálogo creado.",
+  "updated": "Catálogo actualizado.",
+  "delete_error_has_orders": "El catálogo no puede ser eliminado ya que tiene pedidos.",
+  "delete_error_has_accounts": "El catálogo no puede ser eliminado porque tiene cuentas asociadas.",
+  "deleted": "Catálogo eliminado.",
+  "design_created": "Diseño creado.",
+  "update_error_nonactive_design": "El diseño no puede ser actualizado y desactivado. Por favor, activa otro diseño del catálogo primero.",
+  "design_updated": "Diseño actualizado.",
+  "delete_error_active_design": "El catálogo activo no puede ser eliminado. Por favor, activa otro diseño del catálogo primero.",
+  "design_deleted": "Diseño eliminado.",
+  "design_activated": "Diseño activado.",
+  "no_design": "El diseño no existe.",
+  "product_active": "Producto asociado con el catálogo.",
+  "product_deleted": "Producto desasociado del catálogo.",
+  "product_non_existent": "El producto no existe.",
+  "policy_rule": {
+    "four_chars_min": "Mínimo de 4 caracteres",
+    "twelve_chars_min": "Mínimo de 12 caracteres",
+    "eight_chars_min": "Mínimo de 8 caracteres",
+    "hundred_chars_max": "Máximo de 100 caracteres",
+    "one_lowercase": "Al menos una letra minúscula",
+    "one_uppercase": "Al menos una letra mayúscula",
+    "a_number": "Al menos un número",
+    "trimmed": "Sin espacios en blanco",
+    "starts_with_letter": "Debe comenzar con una letra",
+    "one_special_char": "Al menos un carácter especial: #*+-_=$%!?&@",
+    "one_special_char_v2": "Al menos un carácter especial: #*$%!?&@",
+    "equal_passwords": "Las contraseñas deben ser iguales",
+    "cannot_be_previous": "La contraseña no puede ser igual a la anterior"
+  }
+}

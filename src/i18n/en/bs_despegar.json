@@ -1,0 +1,15 @@
+{
+  "no_parameter": "Parámetro indefinido (:par_name)",
+  "coupon_generated": "El cupón ha sido generado.",
+  "no_mail_template_found": "No se encontró la plantilla de correo electrónico.",
+  "sendmail_ok": "El correo electrónico ha sido enviado.",
+  "template_cupon_real": "cupón_despegar_real",
+  "template_cupon_virtual": "cupón_despegar_virtual",
+  "mail_subject": "Tu cupón en Despegar.com",
+  "expiration_greater_today": "La fecha de vencimiento debe ser posterior a hoy.",
+  "gift_data_missing": "Los datos del regalo deben estar completos.",
+  "amount_numeric_error": "El cupón no se generó: El monto debe ser un número entero positivo.",
+  "minimum_numeric_error": "El cupón no se generó: El monto mínimo debe ser un número entero positivo y menor o igual al monto.",
+  "param_upd_error_id": "Error al actualizar el parámetro \":par_name\" (:par_id)",
+  "coupon_does_not_exist": "El cupón no existe."
+}

@@ -1,0 +1,12 @@
+{
+  "orderConfirmed": "Congratulations! Your order :order_id has been confirmed",
+  "newSaleConfirmed": "Congratulations! A new sale has been confirmed on YOUMarket",
+  "packageOnItsWay": "Your package is on its way!",
+  "packageDelivered": "Congratulations! Your package has been delivered",
+  "packageSuccessfullyDelivered": "Your package has been successfully delivered",
+  "packageDeliveredAtDestination": "Package successfully delivered at the destination",
+  "packageNotDelivered": "Oops! We couldn't deliver your package",
+  "packageNotDeliveredAtDestination": "Oops! One of your packages was not delivered at the destination",
+  "packageNotDeliveredImportant": "Important! This package could not be delivered",
+  "orderAvailableForPickup": "Hello! Your order is now available for pickup at the branch"
+}

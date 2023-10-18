@@ -1,0 +1,9 @@
+{
+  "inexistentType": "Tipo de voucher inexistente.",
+  "inexistent": "Voucher inexistente.",
+  "errorObtaining": "Erro ao obter o voucher.",
+  "balanceRequestUnavailable": "Não é possível verificar o saldo do voucher.",
+  "alreadyActive": "O voucher não está aguardando confirmação.",
+  "confirmed": "A solicitação de ativação do voucher foi enviada com sucesso.",
+  "confirmValueIncorrect": "Valor incorreto. Se o problema persistir, entre em contato com nosso Atendimento ao Cliente."
+}

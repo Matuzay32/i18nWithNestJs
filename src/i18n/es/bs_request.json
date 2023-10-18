@@ -1,0 +1,5 @@
+{
+  "notAuthorized": "Not authorized.",
+  "inconsistentParams": "Inconsistent parameters.",
+  "unexpectedError": "Unexpected error. Please try again later."
+}

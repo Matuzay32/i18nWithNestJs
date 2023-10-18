@@ -1,0 +1,22 @@
+{
+  "data_not_found": "Requested data not found.",
+  "no_coincidences_found": "No matches found.",
+  "inexistent_destination": "No destinations found.",
+  "inexistent_street": "Street not found.",
+  "inexistent_city": "City not found.",
+  "inexistent": "Nonexistent destination.",
+  "no_cities_for_cp": "No cities found for the postal code.",
+  "catalog_doesnt_allow_creation": "The catalog does not allow creating the destination.",
+  "catalog_doesnt_allow_delete": "The catalog does not allow deleting the destination.",
+  "catalog_doesnt_allow_edition": "The catalog does not allow editing the destination.",
+  "catalog_doesnt_allow_favourite": "The catalog does not allow selecting the destination as a favorite.",
+  "country_doesnt_allow_creation": "The country is not configured for destination creation.",
+  "error_creating": "Error creating the address.",
+  "error_deleting": "Error deleting the address.",
+  "error_updating": "Error updating the address.",
+  "cannot_delete": "The address cannot be deleted as it has associated orders.",
+  "created": "Destination created.",
+  "deleted": "Destination deleted.",
+  "updated": "Destination updated.",
+  "selected_as_favorite": "Destination selected as a favorite."
+}

@@ -1,0 +1,32 @@
+{
+  "created": "Catalog created.",
+  "updated": "Catalog updated.",
+  "delete_error_has_orders": "The catalog cannot be deleted as it has orders.",
+  "delete_error_has_accounts": "The catalog cannot be deleted because it has associated accounts.",
+  "deleted": "Catalog deleted.",
+  "design_created": "Design created.",
+  "update_error_nonactive_design": "The design cannot be updated and deactivated. Please activate another design from the catalog first.",
+  "design_updated": "Design updated.",
+  "delete_error_active_design": "The active catalog cannot be deleted. Please activate another design from the catalog first.",
+  "design_deleted": "Design deleted.",
+  "design_activated": "Design activated.",
+  "no_design": "The design does not exist.",
+  "product_active": "Product associated with the catalog.",
+  "product_deleted": "Product disassociated from the catalog.",
+  "product_non_existent": "The product does not exist.",
+  "policy_rule": {
+      "four_chars_min": "Minimum of 4 characters",
+      "twelve_chars_min": "Minimum of 12 characters",
+      "eight_chars_min": "Minimum of 8 characters",
+      "hundred_chars_max": "Maximum of 100 characters",
+      "one_lowercase": "At least one lowercase letter",
+      "one_uppercase": "At least one uppercase letter",
+      "a_number": "At least one number",
+      "trimmed": "No white spaces",
+      "starts_with_letter": "Must start with a letter",
+      "one_special_char": "At least one special character: #*+-_=$%!?&@",
+      "one_special_char_v2": "At least one special character: #*$%!?&@",
+      "equal_passwords": "Passwords must be equal",
+      "cannot_be_previous": "Password cannot be the same as the previous one"
+  }
+}

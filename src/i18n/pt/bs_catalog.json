@@ -1,0 +1,32 @@
+{
+  "created": "Catálogo criado.",
+  "updated": "Catálogo atualizado.",
+  "delete_error_has_orders": "O catálogo não pode ser excluído, pois existem pedidos associados a ele.",
+  "delete_error_has_accounts": "O catálogo não pode ser excluído, pois existem contas associadas a ele.",
+  "deleted": "Catálogo excluído.",
+  "design_created": "Design criado.",
+  "update_error_nonactive_design": "O design não pode ser atualizado e desativado. Por favor, ative outro design do catálogo primeiro.",
+  "design_updated": "Design atualizado.",
+  "delete_error_active_design": "O catálogo ativo não pode ser excluído. Por favor, ative outro design do catálogo primeiro.",
+  "design_deleted": "Design excluído.",
+  "design_activated": "Design ativado.",
+  "no_design": "O design não existe.",
+  "product_active": "Produto associado ao catálogo.",
+  "product_deleted": "Produto desassociado do catálogo.",
+  "product_non_existent": "O produto não existe.",
+  "policy_rule": {
+    "four_chars_min": "Mínimo de 4 caracteres",
+    "twelve_chars_min": "Mínimo de 12 caracteres",
+    "eight_chars_min": "Mínimo de 8 caracteres",
+    "hundred_chars_max": "Máximo de 100 caracteres",
+    "one_lowercase": "Pelo menos uma letra minúscula",
+    "one_uppercase": "Pelo menos uma letra maiúscula",
+    "a_number": "Pelo menos um número",
+    "trimmed": "Sem espaços em branco",
+    "starts_with_letter": "Deve começar com uma letra",
+    "one_special_char": "Pelo menos um caractere especial: #*+-_=$%!?&@",
+    "one_special_char_v2": "Pelo menos um caractere especial: #*$%!?&@",
+    "equal_passwords": "As senhas devem ser iguais",
+    "cannot_be_previous": "A senha não pode ser a mesma que a anterior"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "sendmail": {
+    "emailSent": "El correo electrónico fue enviado.",
+    "operationNotBeCompleted": "La operación no pudo ser completada.",
+    "error": "Error al enviar el correo electrónico."
+  },
+  "redeem": {
+    "couponDoesNotExist": "El cupón no existe."
+  },
+  "activate": {
+    "couponDoesNotExist": "El cupón no existe.",
+    "couponDoesNotBeActivated": "No se pudo activar el cupón.",
+    "already_active": "El cupón ya está activo.",
+    "success": "Cupón activado."
+  },
+  "emailupdate": {
+    "error_updating": "Error al actualizar el correo electrónico del cupón.",
+    "not_exist": "El cupón no existe.",
+    "success": "Correo electrónico actualizado."
+  },
+  "show": {
+    "inexistent": "Cupón inexistente."
+  },
+  "balance": {
+    "not_active": "El cupón no está activado.",
+    "inexistent": "Cupón inexistente."
+  },
+  "mail_subject_preparing": "¡Hola! Estamos preparando tu tarjeta de regalo"
+}

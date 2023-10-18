@@ -1,0 +1,29 @@
+{
+  "sendmail": {
+      "emailSent": "The email was sent.",
+      "operationNotBeCompleted": "The operation could not be completed.",
+      "error": "Error sending the email."
+  },
+  "redeem": {
+      "couponDoesNotExist": "The coupon does not exist."
+  },
+  "activate": {
+      "couponDoesNotExist": "The coupon does not exist.",
+      "couponDoesNotBeActivated": "The coupon could not be activated.",
+      "already_active": "The coupon is already active.",
+      "success": "Coupon activated."
+  },
+  "emailupdate": {
+      "error_updating": "Error updating the coupon's email.",
+      "not_exist": "The coupon does not exist.",
+      "success": "Email updated."
+  },
+  "show": {
+      "inexistent": "Nonexistent coupon."
+  },
+  "balance": {
+      "not_active": "The coupon is not active.",
+      "inexistent": "Nonexistent coupon."
+  },
+  "mail_subject_preparing": "Hello! We are preparing your gift card"
+}

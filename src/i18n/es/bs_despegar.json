@@ -1,0 +1,15 @@
+{
+  "no_parameter": "Undefined parameter (:par_name)",
+  "coupon_generated": "The coupon has been generated.",
+  "no_mail_template_found": "Email template not found.",
+  "sendmail_ok": "The email has been sent.",
+  "template_cupon_real": "real_take_off_coupon",
+  "template_cupon_virtual": "virtual_take_off_coupon",
+  "mail_subject": "Your coupon at Despegar.com",
+  "expiration_greater_today": "The expiration date must be later than today.",
+  "gift_data_missing": "Gift data must be complete.",
+  "amount_numeric_error": "Coupon not generated: The amount must be a positive integer.",
+  "minimum_numeric_error": "Coupon not generated: The minimum amount must be a positive integer and less than or equal to the amount.",
+  "param_upd_error_id": "Error updating parameter \":par_name\" (:par_id)",
+  "coupon_does_not_exist": "The coupon does not exist."
+}

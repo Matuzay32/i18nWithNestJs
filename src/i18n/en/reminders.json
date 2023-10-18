@@ -1,0 +1,13 @@
+{
+  "account": "El nombre de usuario especificado es incorrecto",
+  "user": "El correo electrónico especificado no pertenece a un usuario en este catálogo",
+  "token": "Este token no es válido",
+  "password": "Contraseña no válida",
+  "reset": "La contraseña se ha actualizado correctamente",
+  "sent": {
+    "ok": "Se ha enviado un correo electrónico a tu cuenta de correo para restablecer tu contraseña",
+    "no": "Error al enviar el correo electrónico"
+  },
+  "mailSubject": "Restablecer Contraseña",
+  "url": "Haz clic aquí"
+}

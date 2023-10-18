@@ -1,0 +1,13 @@
+{
+  "account": "The specified username is incorrect",
+  "user": "The specified email does not belong to a user in this catalog",
+  "token": "This token is not valid",
+  "password": "Invalid password",
+  "reset": "The password has been successfully updated",
+  "sent": {
+    "ok": "An email has been sent to your email account to reset your password",
+    "no": "Error sending the email"
+  },
+  "mailSubject": "Reset Password",
+  "url": "Click here"
+}

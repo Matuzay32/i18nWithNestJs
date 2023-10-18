@@ -1,0 +1,140 @@
+{
+  "catalog_not_found": "Catalog not found (:id)",
+  "created": "An account has been created for the email :email. Please check your inbox. You will receive a message with a password to log in to the system.",
+  "account_already_exists": "The email :email is already registered.",
+  "account_dosent_exists": "There is no account for the email :email.",
+  "account_create_error": "Error creating the account in the catalog.",
+  "wallet_create_error": "Error creating the account's wallet.",
+  "create_email_error": "Error trying to send the email.",
+  "verification_email_error": "Error registering the verification request. Please try again later.",
+  "verification_email_ok": "We have received your request. We will contact you shortly.",
+  "invalid_login": "Incorrect email or password.",
+  "inactive_account": "The account is inactive.",
+  "login_successful": "Successful login.",
+  "account_logoff": "Account logged off.",
+  "invalid_old_password": "Incorrect password.",
+  "password_changed": "The password has been changed.",
+  "created_mail_subject": "Welcome!",
+  "verification_mail_subject": "New account verification request",
+  "invitation_mail_subject": "Congratulations! You have been invited to participate.",
+  "update_success": "Profile updated successfully.",
+  "not_account_identified": "Identification is required to perform the operation.",
+  "not_invalid_destination_id": "An error occurred. Invalid destination.",
+  "destination_changed": "Destination selected.",
+  "destination_created": "New destination created.",
+  "destination_updated": "Destination updated.",
+  "destination_removed": "Destination removed.",
+  "destination_not_coincident": "The address does not belong to the user.",
+  "destination_zipcode": {
+    "error": "Password does not exist."
+  },
+  "bo_created": "Account created: :email",
+  "bo_updated": "Account updated: :email",
+  "bo_create_error": "Error creating the account: :email",
+  "bo_created_mail_subject": "Welcome!",
+  "bo_create_email_error": "Error trying to send the email (:email)",
+  "bo_create_error_client": "You do not have permission to create accounts in the catalog :catalogo",
+  "bo_create_no_file_error": "Error, you must specify a file to process.",
+  "bo_create_open_file_error": "Error opening the file.",
+  "bo_create_file_processed": "File processed.",
+  "bo_account_already_exists": "The email :email is already registered.",
+  "bo_account_not_found": "Account not found (:id)",
+  "bo_update_error_client": "You do not have permission to update account data in the catalog :catalogo",
+  "bo_account_update_error": "An error occurred while updating account data: :email",
+  "bo_update_balance": "Congratulations! You have more credits in your wallet.",
+  "bo_balance_update_not_enough_client_points": "The client does not have enough points to credit to the account.",
+  "bo_balance_update_not_enough_account_points": "The account does not have enough points to deduct.",
+  "bo_balance_update_from_file_not_enough_client_points": "The client does not have enough points to process the points file.",
+  "bo_balance_not_empty": "The account has a balance in its wallet.",
+  "bo_wallet_updated": "Wallet updated (:accId)",
+  "bo_balance_file_processed": "Balance file processed",
+  "bo_has_orders": "The account has a purchase history.",
+  "bo_deleted": "The account has been deleted.",
+  "bo_no_deleted": "The account cannot be deleted.",
+  "bo_error_file_format": "The file does not follow the correct format.",
+  "bo_alloc_partial_balance_not_enough": "Partial credit allocation due to insufficient balance in the client's account.",
+  "bo_alloc_user_has_no_catalog": "The user does not have permissions for the catalog.",
+  "bo_alloc_no_account_to apply": "No list of accounts for allocation has been provided.",
+  "bo_alloc_no_enough_credit": "Insufficient balance in the client's wallet.",
+  "bo_allocation_successful": "Credits have been successfully distributed.",
+  "password_reseted": "The password for the account :email has been reset.",
+  "password_reset_email_subject": "New password for accessing your benefits",
+  "not_authorized": "Not authorized",
+  "not_exists": "The user does not exist",
+  "activate_account": "Account activation.",
+  "validations": {
+    "password": "The password must have at least :min characters and include an uppercase letter, a lowercase letter, and a number."
+  },
+  "login": {
+    "missing_headers": "Inconsistent header data.",
+    "missing_parameters": "Inconsistent parameters.",
+    "not_found": "Invalid data.",
+    "not_active": "The user is not active.",
+    "blocked": "The user is blocked due to repeated failed login attempts. Reset the password.",
+    "temporarily_blocked": "The user is temporarily blocked due to repeated failed login attempts. Please try again in 5 minutes.",
+    "signin": "Sign in."
+  },
+  "logout": {
+    "success": "Session successfully terminated.",
+    "error": "Failed to terminate the session.",
+    "unauthorized": "Not allowed."
+  },
+  "loginWithToken": {
+    "missing_headers": "Inconsistent header data.",
+    "missing_parameters": "Inconsistent parameters.",
+    "not_found": "Invalid data.",
+    "not_active": "The user is not active."
+  },
+  "externalLogin": {
+    "not_found": "Invalid data.",
+    "not_active": "The user is not active."
+  },
+  "refreshToken": {
+    "missing_headers": "Inconsistent header data.",
+    "missing_parameters": "Inconsistent parameters.",
+    "catalog_not_found": "Inconsistent parameters.",
+    "success": "The refreshToken has been successfully generated.",
+    "error": "Failed to update the refreshToken.",
+    "expired": "The refreshToken has expired.",
+    "forbidden": "Not allowed."
+  },
+  "getData": {
+    "not_found": "The user does not exist.",
+    "catalog_not_found": "The catalog does not exist.",
+    "customfields_not_found": "One of the custom fields does not exist.",
+    "error": "Error retrieving account data.",
+    "unauthorized": "Not authorized."
+  },
+  "passwordReset": {
+    "missing_parameters": "Inconsistent parameters.",
+    "not_found": "Invalid data.",
+    "error": "Error updating the password.",
+    "success": "Password updated successfully."
+  },
+  "passwordUpdate": {
+    "missing_parameters": "Inconsistent parameters.",
+    "not_found": "Invalid data.",
+    "change": "Password change.",
+    "error": "Error updating the password.",
+    "success": "Password updated successfully.",
+    "unauthorized": "Not authorized."
+  },
+  "verify": {
+    "missing_parameters": "Inconsistent parameters.",
+    "catalog_not_found": "Catalog not found.",
+    "mail": "Account verification request",
+    "success": "The message has been sent successfully.",
+    "error": "Failed to send the message."
+  },
+  "invite": {
+    "missing_parameters": "Inconsistent parameters.",
+    "catalog_not_found": "Catalog not found.",
+    "feature_not_found": "The invitation feature does not exist.",
+    "catalog_feature_not_found": "The catalog does not have the feature available.",
+    "customfield_not_found": "The custom field does not exist.",
+    "customfield_account_not_found": "The custom field for the account does not exist.",
+    "error": "Failed to send the message.",
+    "success": "The message has been sent successfully.",
+    "unauthorized": "Not authorized."
+  }
+}

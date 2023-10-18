@@ -1,0 +1,8 @@
+{
+  "badRequest": "Inconsistent parameters. Authorization header not found.",
+  "expiredToken": "The accessToken has expired.",
+  "forbidden": "Forbidden.",
+  "catalogNotFound": "Inconsistent parameters. Catalog not found.",
+  "accessTokenBlocked": "The accessToken is blocked.",
+  "validationError": "Error validating the Access Token."
+}

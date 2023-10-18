@@ -1,0 +1,8 @@
+{
+  "badRequest": "Parâmetros inconsistentes. Cabeçalho de autorização não encontrado.",
+  "expiredToken": "O accessToken expirou.",
+  "forbidden": "Proibido.",
+  "catalogNotFound": "Parâmetros inconsistentes. Catálogo não encontrado.",
+  "accessTokenBlocked": "O accessToken está bloqueado.",
+  "validationError": "Erro na validação do Access Token."
+}

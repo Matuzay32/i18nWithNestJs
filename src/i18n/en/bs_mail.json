@@ -1,0 +1,12 @@
+{
+  "orderConfirmed": "¡Felicidades! Tu pedido :order_id ha sido confirmado",
+  "newSaleConfirmed": "¡Felicidades! Se ha confirmado una nueva venta en YOUMarket",
+  "packageOnItsWay": "¡Tu paquete está en camino!",
+  "packageDelivered": "¡Felicidades! Tu paquete ha sido entregado",
+  "packageSuccessfullyDelivered": "Tu paquete ha sido entregado con éxito",
+  "packageDeliveredAtDestination": "Paquete entregado con éxito en el destino",
+  "packageNotDelivered": "¡Oops! No pudimos entregar tu paquete",
+  "packageNotDeliveredAtDestination": "¡Oops! Uno de tus paquetes no se entregó en el destino",
+  "packageNotDeliveredImportant": "¡Importante! Este paquete no se pudo entregar",
+  "orderAvailableForPickup": "¡Hola! Tu pedido ya está disponible para ser recogido en la sucursal"
+}

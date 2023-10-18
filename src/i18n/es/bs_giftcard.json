@@ -1,0 +1,107 @@
+{
+  "error404": "Error accessing the Oh! GiftCard server",
+  "products": {
+      "authKeyMissing": "Authentication key not specified or invalid authentication key",
+      "technicalError": "Technical error preventing processing. Please try again later.",
+      "unknownError": "Unknown error while retrieving the list of products from Oh! Gift."
+  },
+  "generate": {
+      "success": "The gift card has been successfully generated",
+      "requestError": "The request could not be processed. Message: \":detail\"",
+      "authKeyMissing": "Authentication key not specified or invalid authentication key",
+      "technicalError": "Technical error preventing processing. Please try again later.",
+      "unknownError": "Unknown error while generating the card.",
+      "notAvailable": "The gift card is not available."
+  },
+  "withdraw": {
+      "success": "Gift card returned successfully",
+      "technicalError": "Technical error preventing processing. Please try again later.",
+      "errorWithdrawing": "Error while performing the refund.",
+      "notAvailable": "Withdrawal not available"
+  },
+  "sendmail": {
+      "mailSent": "Email sent.",
+      "requestError": "The request could not be processed.",
+      "authKeyMissing": "Authentication key not specified or invalid authentication key",
+      "forbidden": "Unauthorized to make the request.",
+      "technicalError": "Technical error preventing processing. Please try again later.",
+      "unknownError": "Unknown error while sending the Oh! GiftCard email."
+  },
+  "redeem": {
+      "success": "The gift card has been successfully redeemed",
+      "requestError": "The request could not be processed. Message: \":detail\"",
+      "authKeyMissing": "Authentication key not specified or invalid authentication key",
+      "forbidden": "Incorrect operation",
+      "notFound": "Nonexistent card",
+      "conflict": "Conflict. No need to try again.",
+      "technicalError": "Technical error preventing processing. Please try again later.",
+      "unknownError": "Unknown error when redeeming an Oh! Gift card.",
+      "ok": "Redeem",
+      "show": "View Gift Card"
+  },
+  "balance": {
+      "success": "The balance on your gift card is $:balance",
+      "requestError": "The request could not be processed. Message: \":detail\"",
+      "authKeyMissing": "Authentication key not specified or invalid authentication key",
+      "forbidden": "Unauthorized to make the request. (Invalid card)",
+      "notFound": "Incorrect gift card number or security code",
+      "technicalError": "Technical error preventing processing. Please try again later.",
+      "unknownError": "Unknown error when checking an Oh! Gift card."
+  },
+  "activate": {
+      "cardActivated": "Card activated",
+      "cardAlreadyActive": "Card already activated",
+      "notFound": "Non-existent code",
+      "activationError": "Unable to activate the Gift Card",
+      "alreadyInProcess": "The gift card is already in the activation process",
+      "footerErrorMessage": "Try again later or call :phone",
+      "contactTimeRange": "MONDAY TO FRIDAY FROM 9 AM TO 6 PM"
+  },
+  "cardbalance": {
+      "activeCard": "Active card",
+      "inactiveCard": "Inactive card. :status",
+      "suspendedCard": "Suspended card",
+      "inactiveCard": "Inactive card",
+      "expiredCard": "Expired card",
+      "authKeyMissing": "Authentication key not specified or invalid authentication key",
+      "notFound": "The card does not exist",
+      "technicalError": "Technical error preventing processing. Please try again later.",
+      "undefinedError": "Undefined error"
+  },
+  "emailupdate": {
+      "updateError": "Error updating the email of the Gift Card.",
+      "notExist": "The Gift Card does not exist.",
+      "success": "Email updated."
+  },
+  "status": {
+      "generated": "Generated",
+      "authorized": "Authorized",
+      "sent": "Sent"
+  },
+  "cardBalanceZero": "The card has no balance",
+  "support": "Try again later or call ",
+  "notFound": "Card not found",
+  "inconsistentParams": "Inconsistent parameters.",
+  "unexpectedError": "Unexpected error",
+  "unavailable": "Not available",
+  "serviceUnavailable": "Service not available",
+  "providerDoesntExist": "Provider not available",
+  "mailSubject": "Congratulations! You've received a new gift card",
+  "mailSubjectPreparing": "Hello! We are preparing your gift card",
+  "integrationError": "An error occurred in one of the integrations",
+  "companyGiftcard": {
+      "report": {
+          "newProductsForRestock": "There are new products that need restocking!",
+          "productId": "Product ID",
+          "productName": "Name",
+          "value": "Value",
+          "quantity": "Quantity",
+          "deliverOrderAlert": "Errors occurred when delivering pending orders",
+          "orderId": "Order",
+          "orderIdId": "Order ID: :id",
+          "batchCode": "Batch Code: :code",
+          "productShortDesc": "Product",
+          "catalogId": "Catalog"
+      }
+  }
+}

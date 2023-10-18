@@ -1,0 +1,13 @@
+{
+  "account": "O nome de usuário especificado está incorreto",
+  "user": "O email especificado não pertence a um usuário neste catálogo",
+  "token": "Este token não é válido",
+  "password": "Senha inválida",
+  "reset": "A senha foi atualizada com sucesso",
+  "sent": {
+    "ok": "Um email foi enviado para sua conta de email para redefinir sua senha",
+    "no": "Erro ao enviar o email"
+  },
+  "mailSubject": "Redefinir Senha",
+  "url": "Clique aqui"
+}

@@ -1,0 +1,107 @@
+{
+  "error404": "Error al acceder al servidor de Oh! GiftCard",
+  "products": {
+    "authKeyMissing": "Clave de autenticación no especificada o clave de autenticación no válida",
+    "technicalError": "Error técnico que impide el procesamiento. Inténtalo de nuevo más tarde.",
+    "unknownError": "Error desconocido al recuperar la lista de productos de Oh! Gift."
+  },
+  "generate": {
+    "success": "La tarjeta de regalo se ha generado con éxito",
+    "requestError": "La solicitud no pudo ser procesada. Mensaje: \":detail\"",
+    "authKeyMissing": "Clave de autenticación no especificada o clave de autenticación no válida",
+    "technicalError": "Error técnico que impide el procesamiento. Inténtalo de nuevo más tarde.",
+    "unknownError": "Error desconocido al generar la tarjeta.",
+    "notAvailable": "La tarjeta de regalo no está disponible."
+  },
+  "withdraw": {
+    "success": "Tarjeta de regalo devuelta con éxito",
+    "technicalError": "Error técnico que impide el procesamiento. Inténtalo de nuevo más tarde.",
+    "errorWithdrawing": "Error al realizar el reembolso.",
+    "notAvailable": "Devolución no disponible"
+  },
+  "sendmail": {
+    "mailSent": "Correo electrónico enviado.",
+    "requestError": "La solicitud no pudo ser procesada.",
+    "authKeyMissing": "Clave de autenticación no especificada o clave de autenticación no válida",
+    "forbidden": "No autorizado para realizar la solicitud.",
+    "technicalError": "Error técnico que impide el procesamiento. Inténtalo de nuevo más tarde.",
+    "unknownError": "Error desconocido al enviar el correo electrónico de Oh! GiftCard."
+  },
+  "redeem": {
+    "success": "La tarjeta de regalo se ha canjeado con éxito",
+    "requestError": "La solicitud no pudo ser procesada. Mensaje: \":detail\"",
+    "authKeyMissing": "Clave de autenticación no especificada o clave de autenticación no válida",
+    "forbidden": "Operación incorrecta",
+    "notFound": "Tarjeta inexistente",
+    "conflict": "Conflicto. No es necesario volver a intentarlo.",
+    "technicalError": "Error técnico que impide el procesamiento. Inténtalo de nuevo más tarde.",
+    "unknownError": "Error desconocido al canjear una tarjeta de Oh! Gift.",
+    "ok": "Canjear",
+    "show": "Ver Tarjeta de Regalo"
+  },
+  "balance": {
+    "success": "El saldo de tu tarjeta de regalo es de $:balance",
+    "requestError": "La solicitud no pudo ser procesada. Mensaje: \":detail\"",
+    "authKeyMissing": "Clave de autenticación no especificada o clave de autenticación no válida",
+    "forbidden": "No autorizado para realizar la solicitud. (Tarjeta no válida)",
+    "notFound": "Número de tarjeta de regalo o código de seguridad incorrecto",
+    "technicalError": "Error técnico que impide el procesamiento. Inténtalo de nuevo más tarde.",
+    "unknownError": "Error desconocido al consultar una tarjeta de regalo de Oh! Gift."
+  },
+  "activate": {
+    "cardActivated": "Tarjeta activada",
+    "cardAlreadyActive": "Tarjeta ya activada",
+    "notFound": "Código no existente",
+    "activationError": "No se pudo activar la Tarjeta de Regalo",
+    "alreadyInProcess": "La tarjeta de regalo ya está en proceso de activación",
+    "footerErrorMessage": "Inténtalo de nuevo más tarde o llama al :phone",
+    "contactTimeRange": "DE LUNES A VIERNES DE 9 A 18 HS."
+  },
+  "cardbalance": {
+    "activeCard": "Tarjeta activa",
+    "inactiveCard": "Tarjeta inactiva. :status",
+    "suspendedCard": "Tarjeta suspendida",
+    "inactiveCard": "Tarjeta inactiva",
+    "expiredCard": "Tarjeta caducada",
+    "authKeyMissing": "Clave de autenticación no especificada o clave de autenticación no válida",
+    "notFound": "La tarjeta no existe",
+    "technicalError": "Error técnico que impide el procesamiento. Inténtalo de nuevo más tarde.",
+    "undefinedError": "Error no definido"
+  },
+  "emailupdate": {
+    "updateError": "Error al actualizar el correo electrónico de la Tarjeta de Regalo.",
+    "notExist": "La Tarjeta de Regalo no existe.",
+    "success": "Correo electrónico actualizado."
+  },
+  "status": {
+    "generated": "Generada",
+    "authorized": "Autorizada",
+    "sent": "Enviada"
+  },
+  "cardBalanceZero": "La tarjeta no tiene saldo",
+  "support": "Inténtalo de nuevo más tarde o llama al ",
+  "notFound": "Tarjeta no encontrada",
+  "inconsistentParams": "Parámetros inconsistentes.",
+  "unexpectedError": "Error inesperado",
+  "unavailable": "No disponible",
+  "serviceUnavailable": "Servicio no disponible",
+  "providerDoesntExist": "Proveedor no disponible",
+  "mailSubject": "¡Felicitaciones! Has recibido una nueva tarjeta de regalo",
+  "mailSubjectPreparing": "¡Hola! Estamos preparando tu tarjeta de regalo",
+  "integrationError": "Se produjo un error en una de las integraciones",
+  "companyGiftcard": {
+    "report": {
+      "newProductsForRestock": "¡Hay nuevos productos que necesitan reponerse!",
+      "productId": "ID del producto",
+      "productName": "Nombre",
+      "value": "Valor",
+      "quantity": "Cantidad",
+      "deliverOrderAlert": "Se produjeron errores al entregar órdenes pendientes",
+      "orderId": "Orden",
+      "orderIdId": "ID de la Orden: :id",
+      "batchCode": "Código de Lote: :code",
+      "productShortDesc": "Producto",
+      "catalogId": "Catálogo"
+    }
+  }
+}

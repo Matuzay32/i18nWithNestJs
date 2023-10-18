@@ -1,0 +1,70 @@
+{
+  "notPendingItem": "The item is not Pending.",
+  "itemMovedToPreparation": "Item moved to Preparation",
+  "notInPreparationItem": "The item is not in Preparation",
+  "itemMovedToPlanned": "Item moved to Planned for Delivery",
+  "notPlannedForDeliveryItem": "The item is not Planned for Delivery",
+  "itemHandedOverToCourier": "Item handed over to the courier for delivery",
+  "itemNotHandedOverToCourier": "Item not handed over to the courier for delivery",
+  "itemDeliveredToCustomer": "Item delivered to the customer",
+  "shippingOrderGenerated": "Shipping order generated",
+  "shippingOrderCanceled": "Shipping order canceled",
+  "shippingOrderCancellationEmail": "Shipping order cancellation notified by email.",
+  "shippingOrderCancellationError": "Error canceling the shipment.",
+  "shippingOrderCancellationEmailError": "Error notifying the shipment cancellation by email.",
+  "orderUpdateError": "There was an error updating the order.",
+  "itemNotInPreparationOrPlanned": "The item is neither in Preparation nor Planned for Delivery",
+  "itemCanceledReturnedToPending": "Item canceled, returned to Pending",
+  "itemNotDeliveredToCustomer": "Item not delivered to the customer",
+  "product": "Product",
+  "quantity": "Quantity",
+  "status": "Status",
+  "orderNumber": "ORDER NUMBER",
+  "confirmOrder": "Confirm Order",
+  "deliveryNumber": "Delivery Number",
+  "deliveryPrice": "Delivery Costs",
+  "notValidItem": "The item is not valid",
+  "inexistentItem": "The specified item does not exist",
+  "activate": {
+      "voucherDoesNotExist": "The selected voucher does not exist"
+  },
+  "balance": {
+      "noData": "No information available for this voucher",
+      "balanceData": "<strong>Voucher :code</strong><br>Current Balance: $:balance<br>Expiration: :expiration"
+  },
+  "cardBalance": {
+      "noData": "No information available for this gift card",
+      "balanceData": "<strong>Gift Card :code</strong><br>Current Balance: $:balance<br>Expiration: :expiration"
+  },
+  "destination": {
+      "name": "Name",
+      "id": "Shipping ID",
+      "street": "Street",
+      "can": "Street No.",
+      "number": "Number",
+      "cpn": "Postal Code No.",
+      "floor": "Floor",
+      "apartment": "Apartment",
+      "zipcode": "Postal Code",
+      "zipcodeId": "Postal Code ID",
+      "city": "City",
+      "province": "Province",
+      "comuna": "District",
+      "region": "Region",
+      "cellphone": "Mobile Phone",
+      "errorUpdate": "Error updating the order address.",
+      "notExist": "The order does not exist.",
+      "success": "Address updated.",
+      "search": "Search streets",
+      "validate": "Validate address"
+  },
+  "methods": {
+      "setOrderReview": {
+          "wrongParameters": "Inconsistent parameters.",
+          "error": "Error saving the review.",
+          "success": "Review saved successfully.",
+          "notFound": "Order not found.",
+          "unauthorized": "Unauthorized."
+      }
+  }
+}

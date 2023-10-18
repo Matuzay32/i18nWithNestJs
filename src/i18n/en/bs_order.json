@@ -1,0 +1,70 @@
+{
+  "notPendingItem": "El artículo no está Pendiente.",
+  "itemMovedToPreparation": "Artículo movido a Preparación",
+  "notInPreparationItem": "El artículo no está en Preparación",
+  "itemMovedToPlanned": "Artículo movido a Planeado para Entrega",
+  "notPlannedForDeliveryItem": "El artículo no está Planeado para Entrega",
+  "itemHandedOverToCourier": "Artículo entregado al mensajero para su envío",
+  "itemNotHandedOverToCourier": "Artículo no entregado al mensajero para su envío",
+  "itemDeliveredToCustomer": "Artículo entregado al cliente",
+  "shippingOrderGenerated": "Orden de envío generada",
+  "shippingOrderCanceled": "Orden de envío cancelada",
+  "shippingOrderCancellationEmail": "Cancelación de la orden de envío notificada por correo electrónico.",
+  "shippingOrderCancellationError": "Error al cancelar el envío.",
+  "shippingOrderCancellationEmailError": "Error al notificar la cancelación del envío por correo electrónico.",
+  "orderUpdateError": "Hubo un error al actualizar la orden.",
+  "itemNotInPreparationOrPlanned": "El artículo no está ni en Preparación ni Planeado para Entrega",
+  "itemCanceledReturnedToPending": "Artículo cancelado, devuelto a Pendiente",
+  "itemNotDeliveredToCustomer": "Artículo no entregado al cliente",
+  "product": "Producto",
+  "quantity": "Cantidad",
+  "status": "Estado",
+  "orderNumber": "NÚMERO DE ORDEN",
+  "confirmOrder": "Confirmar Orden",
+  "deliveryNumber": "Número de Entrega",
+  "deliveryPrice": "Costos de Envío",
+  "notValidItem": "El artículo no es válido",
+  "inexistentItem": "El artículo indicado no existe",
+  "activate": {
+    "voucherDoesNotExist": "El cupón seleccionado no existe"
+  },
+  "balance": {
+    "noData": "No hay información disponible para este cupón",
+    "balanceData": "<strong>Cupón :code</strong><br>Saldo Actual: $:balance<br>Vencimiento: :expiration"
+  },
+  "cardBalance": {
+    "noData": "No hay información disponible para esta tarjeta de regalo",
+    "balanceData": "<strong>Tarjeta de Regalo :code</strong><br>Saldo Actual: $:balance<br>Vencimiento: :expiration"
+  },
+  "destination": {
+    "name": "Nombre",
+    "id": "ID de Envío",
+    "street": "Calle",
+    "can": "Calle Nro.",
+    "number": "Número",
+    "cpn": "Código Postal Nro.",
+    "floor": "Piso",
+    "apartment": "Departamento",
+    "zipcode": "Código Postal",
+    "zipcodeId": "ID de Código Postal",
+    "city": "Ciudad",
+    "province": "Provincia",
+    "comuna": "Comuna",
+    "region": "Región",
+    "cellphone": "Teléfono Móvil",
+    "errorUpdate": "Error al actualizar la dirección de la orden.",
+    "notExist": "La orden no existe.",
+    "success": "Dirección actualizada.",
+    "search": "Buscar calles",
+    "validate": "Validar dirección"
+  },
+  "methods": {
+    "setOrderReview": {
+      "wrongParameters": "Parámetros inconsistentes.",
+      "error": "Error al guardar la reseña.",
+      "success": "Reseña guardada con éxito.",
+      "notFound": "Orden no encontrada.",
+      "unauthorized": "No autorizado."
+    }
+  }
+}

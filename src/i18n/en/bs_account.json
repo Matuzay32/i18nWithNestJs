@@ -1,0 +1,139 @@
+{
+  "catalog_not_found": "Catálogo no encontrado (:id)",
+  "created": "Se ha creado una cuenta para el correo electrónico :email. Por favor, verifica tu bandeja de entrada. Recibirás un mensaje con una contraseña para iniciar sesión en el sistema.",
+  "account_already_exists": "El correo electrónico :email ya está registrado.",
+  "account_dosent_exists": "No existe una cuenta para el correo electrónico :email.",
+  "account_create_error": "Error al crear la cuenta en el catálogo.",
+  "wallet_create_error": "Error al crear la billetera de la cuenta.",
+  "create_email_error": "Error al intentar enviar el correo electrónico.",
+  "verification_email_error": "Error al registrar la solicitud de verificación. Por favor, inténtalo nuevamente más tarde.",
+  "verification_email_ok": "Hemos recibido tu solicitud. Nos pondremos en contacto contigo pronto.",
+  "invalid_login": "Correo electrónico o contraseña incorrectos.",
+  "inactive_account": "La cuenta está inactiva.",
+  "login_successful": "Inicio de sesión exitoso.",
+  "account_logoff": "Cuenta desconectada.",
+  "invalid_old_password": "Contraseña incorrecta.",
+  "password_changed": "La contraseña ha sido cambiada.",
+  "created_mail_subject": "¡Bienvenido!",
+  "verification_mail_subject": "Nueva solicitud de verificación de cuenta",
+  "invitation_mail_subject": "¡Felicidades! Has sido invitado a participar.",
+  "update_success": "El perfil se actualizó con éxito.",
+  "not_account_identified": "Se requiere identificación para realizar la operación.",
+  "not_invalid_destination_id": "Ha ocurrido un error. Destino no válido.",
+  "destination_changed": "Destino seleccionado.",
+  "destination_created": "Nuevo destino creado.",
+  "destination_updated": "Destino actualizado.",
+  "destination_removed": "Destino eliminado.",
+  "destination_not_coincident": "La dirección no pertenece al usuario.",
+  "destination_zipcode": {
+    "error": "La contraseña no existe."
+  },
+  "bo_created": "Cuenta creada: :email",
+  "bo_updated": "Cuenta actualizada: :email",
+  "bo_create_error": "Error al crear la cuenta: :email",
+  "bo_created_mail_subject": "¡Bienvenido!",
+  "bo_create_email_error": "Error al intentar enviar el correo electrónico (:email)",
+  "bo_create_error_client": "No tienes permiso para crear cuentas en el catálogo :catalogo",
+  "bo_create_no_file_error": "Error, debes especificar un archivo para procesar.",
+  "bo_create_open_file_error": "Error al abrir el archivo.",
+  "bo_create_file_processed": "Archivo procesado.",
+  "bo_account_already_exists": "El correo electrónico :email ya está registrado.",
+  "bo_account_not_found": "La cuenta no se encontró (:id)",
+  "bo_update_error_client": "No tienes permiso para actualizar datos de cuenta en el catálogo :catalogo",
+  "bo_account_update_error": "Ocurrió un error al actualizar los datos de la cuenta: :email",
+  "bo_update_balance": "¡Felicidades! Tienes más créditos en tu billetera.",
+  "bo_balance_update_not_enough_client_points": "El cliente no tiene suficientes puntos para acreditar a la cuenta.",
+  "bo_balance_update_not_enough_account_points": "La cuenta no tiene suficientes puntos para deducir.",
+  "bo_balance_update_from_file_not_enough_client_points": "El cliente no tiene suficientes puntos para procesar el archivo de puntos.",
+  "bo_balance_not_empty": "La cuenta tiene un saldo en su billetera.",
+  "bo_wallet_updated": "Billetera actualizada (:accId)",
+  "bo_balance_file_processed": "Archivo de saldo procesado",
+  "bo_has_orders": "La cuenta tiene un historial de compras.",
+  "bo_deleted": "La cuenta ha sido eliminada.",
+  "bo_no_deleted": "La cuenta no puede ser eliminada.",
+  "bo_error_file_format": "El archivo no sigue el formato correcto.",
+  "bo_alloc_partial_balance_not_enough": "Asignación parcial de crédito debido a saldo insuficiente en la cuenta del cliente.",
+  "bo_alloc_user_has_no_catalog": "El usuario no tiene permisos para el catálogo.",
+  "bo_alloc_no_account_to_apply": "No se ha proporcionado una lista de cuentas para la asignación.",
+  "bo_alloc_no_enough_credit": "Saldo insuficiente en la billetera del cliente.",
+  "bo_allocation_successful": "Los créditos se han distribuido con éxito.",
+  "password_reseted": "La contraseña para la cuenta :email ha sido restablecida.",
+  "password_reset_email_subject": "Nueva contraseña para acceder a tus beneficios",
+  "not_authorized": "No autorizado",
+  "not_exists": "El usuario no existe",
+  "activate_account": "Activación de cuenta.",
+  "validations": {
+    "password": "La contraseña debe tener al menos :min caracteres e incluir una letra mayúscula, una letra minúscula y un número."
+  },
+  "login": {
+    "missing_headers": "Datos de encabezado inconsistentes.",
+    "missing_parameters": "Parámetros inconsistentes.",
+    "not_found": "Datos no válidos.",
+    "not_active": "El usuario no está activo.",
+    "blocked": "El usuario está bloqueado debido a intentos fallidos de inicio de sesión repetidos. Restablece la contraseña.",
+    "temporarily_blocked": "El usuario está temporalmente bloqueado debido a intentos fallidos de inicio de sesión repetidos. Por favor, inténtalo de nuevo en 5 minutos.",
+    "signin": "Iniciar sesión."
+  },
+  "logout": {
+    "success": "La sesión ha finalizado con éxito.",
+    "error": "No se pudo finalizar la sesión.",
+    "unauthorized": "No permitido."
+  },
+  "loginWithToken": {
+    "missing_headers": "Datos de encabezado inconsistentes.",
+    "missing_parameters": "Parámetros inconsistentes.",
+    "not_found": "Datos no válidos.",
+    "not_active": "El usuario no está activo."
+  },
+  "externalLogin": {
+    "not_found": "Datos no válidos.",
+    "not_active": "El usuario no está activo."
+  },
+  "refreshToken": {
+    "missing_headers": "Datos de encabezado inconsistentes.",
+    "missing_parameters": "Parámetros inconsistentes.",
+    "catalog_not_found": "Parámetros inconsistentes.",
+    "success": "El refreshToken se ha generado con éxito.",
+    "error": "No se pudo actualizar el refreshToken.",
+    "expired": "El refreshToken ha caducado.",
+    "forbidden": "No permitido."
+  },  "getData": {
+    "not_found": "El usuario no existe.",
+    "catalog_not_found": "El catálogo no existe.",
+    "customfields_not_found": "Uno de los campos personalizados no existe.",
+    "error": "Error al recuperar los datos de la cuenta.",
+    "unauthorized": "No autorizado."
+  },
+  "passwordReset": {
+    "missing_parameters": "Parámetros inconsistentes.",
+    "not_found": "Datos no válidos.",
+    "error": "Error al actualizar la contraseña.",
+    "success": "Contraseña actualizada exitosamente."
+  },
+  "passwordUpdate": {
+    "missing_parameters": "Parámetros inconsistentes.",
+    "not_found": "Datos no válidos.",
+    "change": "Cambio de contraseña.",
+    "error": "Error al actualizar la contraseña.",
+    "success": "Contraseña actualizada exitosamente.",
+    "unauthorized": "No autorizado."
+  },
+  "verify": {
+    "missing_parameters": "Parámetros inconsistentes.",
+    "catalog_not_found": "Catálogo no encontrado.",
+    "mail": "Solicitud de verificación de cuenta",
+    "success": "El mensaje se ha enviado exitosamente.",
+    "error": "Error al enviar el mensaje."
+  },
+  "invite": {
+    "missing_parameters": "Parámetros inconsistentes.",
+    "catalog_not_found": "Catálogo no encontrado.",
+    "feature_not_found": "La función para invitar no existe.",
+    "catalog_feature_not_found": "El catálogo no tiene la función disponible.",
+    "customfield_not_found": "El campo personalizado no existe.",
+    "customfield_account_not_found": "El campo personalizado para la cuenta no existe.",
+    "error": "Error al enviar el mensaje.",
+    "success": "El mensaje se ha enviado exitosamente.",
+    "unauthorized": "No autorizado."
+  }
+}

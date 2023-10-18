@@ -1,0 +1,15 @@
+{
+  "no_parameter": "Parâmetro indefinido (:par_name)",
+  "coupon_generated": "O cupom foi gerado.",
+  "no_mail_template_found": "Modelo de e-mail não encontrado.",
+  "sendmail_ok": "O e-mail foi enviado.",
+  "template_cupon_real": "cupom_real_take_off",
+  "template_cupon_virtual": "cupom_virtual_take_off",
+  "mail_subject": "Seu cupom no Despegar.com",
+  "expiration_greater_today": "A data de validade deve ser posterior à data atual.",
+  "gift_data_missing": "Os dados do presente devem estar completos.",
+  "amount_numeric_error": "Cupom não gerado: O valor deve ser um número inteiro positivo.",
+  "minimum_numeric_error": "Cupom não gerado: O valor mínimo deve ser um número inteiro positivo e menor ou igual ao valor.",
+  "param_upd_error_id": "Erro ao atualizar o parâmetro \":par_name\" (:par_id)",
+  "coupon_does_not_exist": "O cupom não existe."
+}
